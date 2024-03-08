@@ -1,0 +1,1 @@
+The objective of this social networking analysis project is to create a system that facilitates user interactions, connections, and post management in a simulated social network using linked list and graphs.  Tech: C++, Data Structures- Linked Lists, Graphs
