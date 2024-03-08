@@ -68,9 +68,6 @@ gotoXY(24, 6);
 cout << "SUBMITTED BY:";
 gotoXY(24, 8);
 cout << "MUSKAAN SINGHAL\t\t22103192";
-gotoXY(24, 10);
-cout << "ANVESHA SRIVASTAVA\t22103205";
-gotoXY(24, 12);
 cout << ("Press Any key to continue...");
 getch();
 }
